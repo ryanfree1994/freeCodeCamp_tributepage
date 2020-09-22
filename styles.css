@@ -1,0 +1,42 @@
+html {
+  margin: 1em;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1, h1+p{
+  text-align: center;
+}
+
+h1, h2{
+  color: #4D6466;
+}
+
+p{
+  color: grey;
+}
+
+#img-div{
+  background-color: #EEF3DB;
+  text-align: center;
+  padding: 1em;
+}
+
+#image{
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+ul li a{
+  text-decoration: none;
+  color: grey;
+}
+
+ul li a:hover{
+  color: black;
+}
+
+footer{
+  text-align: center;
+  color: #EEF3DB;
+}
