@@ -3,39 +3,39 @@ html {
   font-family: Tahoma, Geneva, sans-serif;
 }
 
-h1, h1+p{
+h1, h1+p {
   text-align: center;
 }
 
-h1, h2, footer{
+h1, h2, footer {
   color: #4D6466;
 }
 
-p{
+p {
   color: #575757;
 }
 
-#img-div{
+#img-div {
   background-color: #EEF3DB;
   text-align: center;
   padding: 1em;
 }
 
-#image{
+#image {
   max-width: 80%;
   display: block;
   margin: 0 auto;
 }
 
-ul li a{
+ul li a {
   text-decoration: none;
   color: #545454;
 }
 
-ul li a:hover{
+ul li a:hover {
   color: black;
 }
 
-footer{
+footer {
   text-align: center;
 }
