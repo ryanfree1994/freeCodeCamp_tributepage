@@ -1,6 +1,7 @@
 html {
   margin: 1em;
   font-family: Tahoma, Geneva, sans-serif;
+  display: none;
 }
 
 h1, h1+p {
@@ -32,7 +33,7 @@ ul li a {
   color: #545454;
 }
 
-ul li a:hover {
+.hover {
   color: black;
 }
 
